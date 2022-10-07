@@ -13,12 +13,12 @@
 
 .msg { padding: 10px; background: rgb(238, 9, 9); position: relative; }
 .msg h1 { color: #fff;  }
-.msg a { margin-left: 20px; background: #408814; color: white; padding: 4px 8px; text-decoration: none; }
+.msg a { margin-left: 20px; background:  #02f0f0; color: white; padding: 4px 8px; text-decoration: none; }
 .msg a:hover { background: #02f0f0; }
 
 /* //-- yui-grids style overrides -- */
 body { font-family: Georgia; color: rgb(157, 70, 214); }
-#inner { padding: 10px 80px; margin: 80px auto; background: #eeb4ca; border: solid rgb(221, 20, 20); border-width: 8px 0 2px 0; }
+#inner { padding: 10px 80px; margin: 80px auto; background:  #02f0f0; border: solid rgb(221, 20, 20); border-width: 8px 0 2px 0; }
 .yui-gf { margin-bottom: 2em; padding-bottom: 2em; border-bottom: 1px solid #ccc; }
 
 /* //-- header, body, footer -- */
